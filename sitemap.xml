@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/alvarezjulio/portfolio/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/alvarezjulio/portfolio/post/project-1/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/post/project-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/alvarezjulio/portfolio/post/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/alvarezjulio/portfolio/about/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/alvarezjulio/portfolio/categories/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/alvarezjulio/portfolio/contact/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/alvarezjulio/portfolio/post/chapter-2/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/post/chapter-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/alvarezjulio/portfolio/tags/</loc>
+    <loc>https://alvarezjulio.github.io/portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
