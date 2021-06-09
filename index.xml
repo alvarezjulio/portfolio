@@ -6,7 +6,18 @@
     <description>Recent content in Portfolio on Julio Alvarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://alvarezjulio.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://alvarezjulio.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide to moving abroad</title>
+      <link>https://alvarezjulio.github.io/portfolio/post/project-2/</link>
+      <pubDate>Wed, 09 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://alvarezjulio.github.io/portfolio/post/project-2/</guid>
+      <description>Passports ready? Here&amp;rsquo;s a list of things you might want to consider as you prepare for the big move. This list is by no means comprehensive, there might be some things that specifically apply to you and that are relevant to your country of origin or destiantion.
+ Visit and Spend time with family.
+Moving abroad means that your extended family will be less accesible than before. Spend time with family, take into account those with chronic illnesses who are more suceptible to health breakdowns.</description>
+    </item>
+    
     <item>
       <title>Study Of RomneyCare concerning abortions</title>
       <link>https://alvarezjulio.github.io/portfolio/post/project-1/</link>
@@ -22,19 +33,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alvarezjulio.github.io/portfolio/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+      <description>Let&amp;rsquo;s be Social.
+Send me a message and I&amp;rsquo;ll get back to you as soon as possible.
 Your Name Email Address An email address is required.  Message   </description>
-    </item>
-    
-    <item>
-      <title>Guide to moving abroad</title>
-      <link>https://alvarezjulio.github.io/portfolio/post/chapter-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alvarezjulio.github.io/portfolio/post/chapter-2/</guid>
-      <description>Passports ready? Here&amp;rsquo;s a list of things you might want to consider as you prepare for the big move. This list is by no means comprehensive, there might be some things that specifically apply to you and that are relevant to your country of origin or destiantion.
- Visit and Spend time with family.
-Moving abroad means that your extended family will be less accesible than before. Spend time with family, take into account those with chronic illnesses who are more suceptible to health breakdowns.</description>
     </item>
     
   </channel>
