@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Julio Alvarez</title>
+    <link>https://github.com/alvarezjulio/portfolio/post/</link>
+    <description>Recent content in Projects on Julio Alvarez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/alvarezjulio/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study Of RomneyCare concerning abortions</title>
+      <link>https://github.com/alvarezjulio/portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/alvarezjulio/portfolio/post/project-1/</guid>
+      <description>The sensitive topics of abortion and health care coverage are among the most common policy relevant debates in the United States. Using difference-in-differences regression analysis, we analyze the effect of the Massachusetts Health Care Reform (otherwise known as RomneyCare) on the abortion rate of Massachusetts. We use the state of Rhode Island as a counterfactual state for its similarities to Massachusetts in demographics and in underlying trends. We perform regressions using CDC data on the percentage of uninsured individuals and the abortion rate.</description>
+    </item>
+    
+    <item>
+      <title>Guide to moving abroad</title>
+      <link>https://github.com/alvarezjulio/portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/alvarezjulio/portfolio/post/chapter-2/</guid>
+      <description>Passports ready? Here&amp;rsquo;s a list of things you might want to consider as you prepare for the big move. This list is by no means comprehensive, there might be some things that specifically apply to you and that are relevant to your country of origin or destiantion.
+ Visit and Spend time with family.
+Moving abroad means that your extended family will be less accesible than before. Spend time with family, take into account those with chronic illnesses who are more suceptible to health breakdowns.</description>
+    </item>
+    
+  </channel>
+</rss>
