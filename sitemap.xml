@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alvarezjulio.github.io/portfolio/post/project-2/</loc>
-    <lastmod>2021-06-09T11:00:59-04:00</lastmod>
+    <loc>https://alvarezjulio.github.io/portfolio/post/project-3/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://alvarezjulio.github.io/portfolio/</loc>
-    <lastmod>2021-06-09T11:00:59-04:00</lastmod>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://alvarezjulio.github.io/portfolio/post/project-2/</loc>
+    <lastmod>2021-07-09T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
